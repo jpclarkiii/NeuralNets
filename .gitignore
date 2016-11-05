@@ -1,5 +1,8 @@
+env/
 bin/
 include/
 lib/
 local/
 pip-selfcheck.json
+.ipynb_checkpoints/
+MNIST_data/
